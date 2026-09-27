@@ -1,5 +1,7 @@
 # Standort + Bestand – warum wenige große Lager billiger sind, als die Standortplanung denkt – Streamlit-Demo
 
+**[→ Demo live ausprobieren](https://sebastianhanisch-standort-bestand-demo.streamlit.app/)**
+
 Viertes Stück der **Standortplanungs-Linie** der "Konzepte"-Reihe für die Website "Sebastian Hanisch – Operations Research und Machine Learning", Kind von [standortplanung-demo](https://github.com/sebastian-hanisch/standortplanung-demo) (Standortproblem ohne Kapazität):
 anders als die Fall-Demos im Portfolio (ein Anwendungsfall, mehrere Verfahren im Vergleich) zeigt diese Demo **ein** Modell – **Standortplanung mit Bestandskosten (Location-Inventory, Risk Pooling)** – an einem wachsenden Beispiel.
 Die klassische Standortplanung wählt Lager nach **Fixkosten plus Transport**. Jedes Lager hält aber auch **Sicherheitsbestand** gegen schwankende Nachfrage, und der wächst nicht mit der Zahl der Kunden, sondern nur mit ihrer **Wurzel**: ein großes Lager braucht weniger Bestand als viele kleine, die zusammen dasselbe bedienen.
