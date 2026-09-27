@@ -266,7 +266,7 @@ st.markdown(
 | **Erzeugte Netze und erfundene Parameter** | Gleichverteilte Punkte, erfundene Kosten; die Aussagen gelten für diese Modellwelt, nicht für ein bestimmtes Unternehmen. |
 """
 )
-st.caption("Die Standortplanungs-Linie ist als Ganzes geplant: das Standortproblem ohne Kapazität als Wurzel, danach die kapazitierte Standortplanung mit Lagrange-Relaxation, p-Center, dieses Stück (Standort mit Bestand), Wettbewerbsstandort und Hub-Standorte.")
+st.caption("Die Standortplanungs-Linie ist damit vollständig: das Standortproblem ohne Kapazität als Wurzel, kapazitierte Standortplanung mit Lagrange-Relaxation, p-Center, dieses Stück (Standort mit Bestand), Wettbewerbsstandort und Hub-Standorte.")
 
 st.markdown("---")
 
