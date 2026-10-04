@@ -78,3 +78,7 @@ Die Lokalsuche ist eine Heuristik; nur für Kleinnetze (bis 10 Kunden und 6 Lage
 | `tests/` | 163 Tests: Szenario, Kostenformel von Hand, Kundenzüge und Lokalsuche (keine Verbesserung nach dem Ende), Exakt gegen Brute Force, Presets, Zahlen (`test_claims.py`), App |
 
 Lokal starten: `pip install -r requirements.txt`, dann `streamlit run app.py`; Tests: `pip install -r requirements-dev.txt`, dann `python -m pytest tests`.
+
+---
+
+Diese Demo ist Teil des Portfolios von [Sebastian Hanisch](https://sebastianhanisch.net) – Operations Research und Machine Learning ([Über mich](https://sebastianhanisch.net/ueber-mich.html)). Mehr zur Reihe: [Standortplanung: von der Wahl zum Wettbewerb](https://sebastianhanisch.net/konzepte-standortplanung.html).
